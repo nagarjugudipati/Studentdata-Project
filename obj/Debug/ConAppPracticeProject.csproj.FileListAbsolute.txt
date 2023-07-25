@@ -1,0 +1,8 @@
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\bin\Debug\ConAppPracticeProject.exe.config
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\bin\Debug\ConAppPracticeProject.exe
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\bin\Debug\ConAppPracticeProject.pdb
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.csproj.AssemblyReference.cache
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.csproj.CoreCompileInputs.cache
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.exe
+D:\Mphasis\Day-12\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.pdb
